@@ -4,10 +4,15 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "json-fetch": "^8.0.0",
+    "randomstring": "^1.1.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-stomp": "^4.1.0",
+    "react-talk": "^1.0.0",
+    "username-generator": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
